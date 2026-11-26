@@ -50,13 +50,6 @@ feedback-system/
 4. Open `http://localhost/feedback-system/`.
 5. If the folder name differs or you use a MySQL password, edit `config/config.php`.
 
-## Default Admin
-
-- Email: `admin@community.local`
-- Password: `admin123` (change it after first login)
-
-Register a new account to try the user side.
-
 ## Database (ERD)
 
 `users (1) ──< feedback >── (1) categories`
